@@ -136,3 +136,8 @@ prior to battle, and the battles themselves are structured like a game of Go.
 
 👉 <a class="btn btn-outline-success mt-0 btn-lg" href="/posts/How-to-use-Roadmap/" role="button"
   aria-pressed="true">Start Your Journey</a> 👈
+
+## Teach The Go Game To Your Kids
+<hr>
+
+- Check <a href="https://github.com/sorianom/kids-go-books" target="_blank"> My First Book of Go Exercises </a> by Leandro Soriano Marcolino
