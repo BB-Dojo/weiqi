@@ -1,5 +1,5 @@
 ---
-title: Weiqi Online Resources
+title: Weiqi / Baduk Online Resources
 description: Weiqi Online Resources
 author: SoumyaK4
 pin: true
