@@ -115,7 +115,7 @@ prior to battle, and the battles themselves are structured like a game of Go.
   target="_blank">Movies</a>, <a href="https://senseis.xmp.net/?Television" target="_blank">TV Shows</a>, <a
   href="https://senseis.xmp.net/?AnimeAndGraphicArts" target="_blank">Animation & Comics</a>
 - On <a href="https://www.britgo.org/" target="_blank">BritGo</a>'s Site: <a href="https://www.britgo.org/filmography"
-  target="_blank">Filmography</a>, <a href="https://www.britgo.org/general/manga.html" target="_blank">Manga/Anime</a>,
+  target="_blank">Filmography</a>, <a href="https://www.britgo.org/general/manga" target="_blank">Manga/Anime</a>,
 <a href="https://www.britgo.org/general/novels.html" target="_blank">Novels</a>
 - List of Movies on <a href="https://gomagic.org/go-movies/" target="_blank">Go Magic.</a>
 
