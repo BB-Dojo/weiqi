@@ -75,7 +75,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 1. <a href="https://tsumego-hero.com/" target="_blank">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank">GoMagic Skill Tree</a>
 3. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank">iOS</a>
-4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank">Hactar Go Android</a>
+4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank">Hactar Go Android</a> - Currently inaccessible unless you're beta tester.
 5. <a href="https://tsumegodragon.com/home" target="_blank">Tsumego Dragon by Clossius</a>
 6. <a href="https://www.101weiqi.com/">101Weiqi</a> - Use the <a href="https://www.google.com/search?q=101weiqi+localizer&oq=101weiqi+loca&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIGCAQQRRg80gEINTQ3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank"> Browser Extension for Proper Translation</a>
 7. <a href="https://tsumego.tasuki.org/" target="_blank">PDF Tsumego Collection</a>
@@ -89,7 +89,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 2. <a href="https://www.josekipedia.com/" target="_blank">Josekipedia</a>
 3. <a href="https://ps.waltheri.net/" target="_blank">Walthari Pattern Search</a>
 4. <a href="https://www.go4go.net/" target="_blank">Go4Go</a>
-5. <a href="https://gokifu.com/index.php" target="_blank">Go Kifu</a>
+5. <a href="https://gokifu.com/" target="_blank">Go Kifu</a>
 6. <a href="https://gobase.org/" target="_blank">Go Base</a>
 7. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess&hl=en&gl=US" target="_blank">Go Dojo</a>
 8. <a href="https://tygem.fuseki.info/" target="_blank">Tygem Fuseki</a>
