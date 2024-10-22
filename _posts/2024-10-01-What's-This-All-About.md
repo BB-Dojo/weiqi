@@ -5,7 +5,7 @@ author: SoumyaK4
 categories: [The Game's Overview]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, the surrounding game]
 pin: true
-date: 1700-01-01 00:00:00 +0530
+date: 2024-10-01 00:00:00 +0530
 image: 
  path: /assets/img/posts/goban1.jpg
  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
