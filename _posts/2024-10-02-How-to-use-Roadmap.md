@@ -33,8 +33,8 @@ date: 2024-10-02 00:00:00 +0530
 > **The Categories section has a list of things put into seperate topics. Its more like a Menu**
 > 
 > Here you can find the: <br>
-> [DDK Menu](/categories/ddk-menu), [SDK Menu](/categories/sdk-menu), [Resources List](/categories/the-online-resources), etc.
-{: .prompt-tip}
+<!-- > [DDK Menu](/categories/ddk-menu), [SDK Menu](/categories/sdk-menu), [Resources List](/categories/the-online-resources), etc. -->
+<!-- {: .prompt-tip} -->
 
 ## Using the [Tags](/tags)
 <hr>
