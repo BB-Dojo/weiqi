@@ -4,7 +4,7 @@ description: For Complete Beginners | Go Tutorial/Guide
 author: SoumyaK4
 categories: [DDK Menu]
 tags: [go magic, rules, clossi approach, etiquette, puzzle, 9x9]
-date: 2021-01-15 00:00:00 +0530
+date: 2024-10-04 00:00:00 +0530
 published: false
 ---
 

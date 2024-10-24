@@ -8,14 +8,7 @@ pin: true
 date: 2024-10-02 00:00:00 +0530
 ---
 
-<hr>
-<h5 style="text-align: center">
-    I've created This Roadmap in 2021 from my experience of becoming an Intermediate Level Player, <br>
-    With Just 1 Year of Self Studies, using online free resources.<br />
-    I hope this helps you on Your Journey as well. <br>
-    <b>Good Luck, Have Fun!!</b>
-</h5> 
-<hr>
+{% include about.html %}
 
 ## Using the [Roadmap](/roadmap) directly
 <hr>
@@ -33,8 +26,8 @@ date: 2024-10-02 00:00:00 +0530
 > **The Categories section has a list of things put into seperate topics. Its more like a Menu**
 > 
 > Here you can find the: <br>
-<!-- > [DDK Menu](/categories/ddk-menu), [SDK Menu](/categories/sdk-menu), [Resources List](/categories/the-online-resources), etc. -->
-<!-- {: .prompt-tip} -->
+> [DDK Menu](/categories/ddk-menu), [SDK Menu](/categories/sdk-menu), [Resources List](/categories/the-online-resources), etc.
+{: .prompt-tip}
 
 ## Using the [Tags](/tags)
 <hr>
