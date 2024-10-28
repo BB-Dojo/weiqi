@@ -4,6 +4,9 @@ refactor: true
 ---
 
 {% include lang.html %}
+{% include about.html %}
+
+
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign posts = '' | split: '' %}
