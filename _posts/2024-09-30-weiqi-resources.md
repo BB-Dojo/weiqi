@@ -90,7 +90,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 9. <a href="https://senseis.xmp.net/?ClassicalGoProblemBooks" target="_blank">Classical Tsumego Books</a>
 10. <a href="https://goproblems.com/" target="_blank">GO Problems</a>
 11. <a href="https://gochild2009.appspot.com/" target="_blank">Go Child</a>
-12. <a href="http://www.weiqiok.com/asp/English.asp" target="_blank">Weiqi OK</a>
+12. <a href="https://www.weiqiok.com/asp/English.asp" target="_blank">Weiqi OK</a>
 13. <a href="https://realgoproblems.com/" target="_blank">Real GO Problems</a>
 14. <a href="https://neuralnetgoproblems.com/" target="_blank">Neural-Net GO Problems</a>
 15. <a href="https://mygowiki.tiddlyspot.com/" target="_blank">My Go Wiki</a>
