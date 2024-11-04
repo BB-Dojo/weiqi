@@ -49,6 +49,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 30. <a href="https://www.youtube.com/@nihonkiingochannelforovers8076" target="_blank">Nihon Kiin English Channel</a>
 31. <a href="https://www.twitch.tv/directory/category/go-1" target="_blank">Live Twitch Channels</a>
 32. <a href="https://www.youtube.com/@herewegameofgo" target="_blank">Here We Go</a>
+33. <a href="https://youtube.com/@starpointbaduk" target="_blank">Star Point Baduk</a>
 
 
 ## AI & Tools
