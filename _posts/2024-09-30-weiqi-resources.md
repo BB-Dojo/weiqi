@@ -77,6 +77,9 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 21. <a href="https://mirthturtle.com/go" target="_blank">Shimari Go Platform</a>
 22. <a href="https://https://321go.org/home/" target="_blank">321Go</a>
 23. <a href="https://psalaets.github.io/ogs-move-timing/" target="_blank">OGS Move Timing Analysis</a>
+24. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank">AhQ Go: AI Analysis for Android</a>
+25. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.clock" target="_blank">AhQ Timer and score calculator for offline games</a>
+26. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank">AhQ Live game kifu recorder</a>
 
 ## Tsumegos
 
