@@ -80,6 +80,8 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 24. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank">AhQ Go: AI Analysis for Android</a>
 25. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.clock" target="_blank">AhQ Timer and score calculator for offline games</a>
 26. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank">AhQ Live game kifu recorder</a>
+27. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank">Kifu Snap</a>
+28. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank">Baduk AI Android</a>
 
 ## Tsumegos
 
