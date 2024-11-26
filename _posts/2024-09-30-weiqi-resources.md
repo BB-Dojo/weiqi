@@ -148,6 +148,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 3. <a href="https://www.murugandi.com/" target="_blank">Murugandi</a>
 4. <a href="https://www.instagram.com/hugo.maussion/" target="_blank">Hugo Maussion</a>
 5. <a href="https://kalyptane.blogspot.com/" target="_blank">Kalyptane</a>
+6. <a href="https://almostsente.tumblr.com/" target="_blank">Go Comic : Almost Sente</a>
 6. <a href="https://www.facebook.com/kat.artichoke" target="_blank">Kat Artichoke</a>
 7. <a href="https://www.facebook.com/OferZivonyFaces" target="_blank">Ofer Zivony</a>
 8. <a href="https://www.instagram.com/sho_ishinoshita/" target="_blank">Sho Ishinoshita</a>
